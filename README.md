@@ -41,15 +41,6 @@ Opa! Me chamo Gustavo Wissenbach Viana, tenho 17 anos e sou natural de São Paul
 
 ---
 
- <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ricardolimaa29/ricardolimaa29/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5vNm9nYzNsYmhxaW1oN282cnhzcjQxNjdiOWo3OGF5MmV3bTVvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif="80%"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3ZqeGVleXhiZDZqd3YyeXBnZnBvNnpxYzBhbWwzZTJxaWU3emM4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJEz2pvqumDlG2Twh/giphy.gif="80%/>
 </div>
