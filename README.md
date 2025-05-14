@@ -51,5 +51,5 @@ Opa! Me chamo Gustavo Wissenbach Viana, tenho 17 anos e sou natural de São Paul
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU2aGVucTQwemV3MWc5OGVsMTRkdWdzcDNjeGYxa293aHR5a3RiNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7chLJeFOr49zrXnS8b/giphy.gif" alt="Minha versão animada" width="80%"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWU2aGVucTQwemV3MWc5OGVsMTRkdWdzcDNjeGYxa293aHR5a3RiNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7chLJeFOr49zrXnS8b/giphy.gif](https://media.giphy.com/media/rkM07YUiJCx8lJCxVt/giphy.gif?cid=ecf05e476l1y9djo2zo69n3dele3qcc29tb2n4g53l6sbp99&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Minha versão animada" width="80%"/>
 </div>
