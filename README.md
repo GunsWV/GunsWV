@@ -1,9 +1,14 @@
 # 🩻 Gustavo Viana
 
-**`Desenvolvedor Python`**
+**`Desenvolvedor`**
 
-Opa! Me chamo Gustavo Wissenbach Viana, tenho 17 anos e sou natural de São Paulo. Sou novato nessa área de Programação e pretendo seguir está área no futuro.
+Olá! Sou Gustavo Wissenbach Viana, estudante de Ciência da Computação (1º semestre).
 
+Tenho conhecimento em Python, lógica de programação e Excel, e estou constantemente evoluindo na área de desenvolvimento de software.
+
+Tenho interesse em desenvolver sistemas, explorar SaaS e aprender sobre inteligência artificial, e também penso em futuramente empreender ou contribuir com empresas de tecnologia.
+
+🚀 Focado em crescer como desenvolvedor e entusiasta de tecnologia, aprendendo na prática e buscando minha primeira oportunidade na área de TI.
 ---
 
 <!--Stats-->
