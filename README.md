@@ -12,26 +12,6 @@ Tenho interesse em desenvolver sistemas, explorar SaaS e aprender sobre inteligÃ
 
 ---
 
-   </div>
-</div>
-
-
-### ğŸ¤– Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-</BR>
-
-</BR>
-
----
-
 <!--social media-->
 <div> 
   <a href="https://instagram.com/gustavowv2007" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
