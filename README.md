@@ -9,14 +9,9 @@ Tenho conhecimento em Python, lógica de programação e Excel, e estou constant
 Tenho interesse em desenvolver sistemas, explorar SaaS e aprender sobre inteligência artificial, e também penso em futuramente empreender ou contribuir com empresas de tecnologia.
 
 🚀 Focado em crescer como desenvolvedor e entusiasta de tecnologia, aprendendo na prática e buscando minha primeira oportunidade na área de TI.
+
 ---
 
-<!--Stats-->
-<div style="display: inline">
-   <a href="https://github.com/GunsWV">
-   <div style="display: inline_block">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GunsWV&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=00688b&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunsWV&layout=compact&langs_count=7&bg_color=151515&border_color=00688b&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
    </div>
 </div>
 
